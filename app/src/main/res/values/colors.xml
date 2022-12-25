@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#2F575D</color>
+    <color name="colorPrimaryDark">#2F575D</color>
+    <color name="colorAccent">#CFB53B</color>
+    <color name="r">#f00</color>
+    <color name="b">#000</color>
+    <color name="w">#fff</color>
+    <color name="GreyTransparent">#55FFFFFF</color>
+    <color name="GreyTransparent2">#552f4f4f</color>
+
+    <color name="colotOne">#80766AFF</color>
+    <color name="colotTwo">#80EADDFF</color>
+    <color name="colotThree">#80A4CCFF</color>
+    <color name="colotfour">#80203FFF</color>
+    <color name="colotfive">#806060FF</color>
+
+
+    <color name="backText">#54FFFFFF</color>
+
+    <color name="placeholder">#dddddd</color>
+
+</resources>
